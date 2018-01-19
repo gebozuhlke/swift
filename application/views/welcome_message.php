@@ -4,7 +4,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>YoYoYo!</title>
+	<title>heyHo!</title>
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>css/jquery-ui.min.css">
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>css/styles.css">
@@ -20,7 +20,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 </div>
 <div class="container">
 	<div class="row">
-		<p>hohoho</p>
+		<p>manamana</p>
 	</div>
 	<div class="row">
 	<form action="/welcome/book" method="POST">
